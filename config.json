@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricspelete",
+        "uuid": 3635478,
+        "checksum": "cd9sij"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
